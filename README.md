@@ -3,7 +3,7 @@ A verified visual reference for Minecraft Bedrock Edition UI: texture paths, Scr
 
 # MCBE UI Codex
 
-A verified, comprehensive reference for Minecraft Bedrock Edition UI development — texture paths, Script API, JSON UI, and form design. Built for developers and AI tools alike.
+A verified, comprehensive reference for Minecraft Bedrock Edition UI development, texture paths, Script API, JSON UI, and form design. Built for developers and AI tools alike.
 
 ---
 
@@ -11,7 +11,7 @@ A verified, comprehensive reference for Minecraft Bedrock Edition UI development
 
 A collection of reference documents that solve the same problem: **you shouldn't have to guess.**
 
-Whether you're a developer building server forms and custom UI, or an AI tool generating MCBE code, these docs give you verified paths, correct syntax, and proven patterns — not hallucinated texture names or deprecated API calls.
+Whether you're a developer building server forms and custom UI, or an AI tool generating MCBE code, these docs give you verified paths, correct syntax, and proven patterns, not hallucinated texture names or deprecated API calls.
 
 Every entry is sourced from Mojang's official repositories and community-verified against live Minecraft Bedrock builds.
 
